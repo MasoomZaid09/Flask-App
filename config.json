@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/nobitazone",
+    "prod_uri":"mysql://root:@localhost/nobitazone",
+    "fb_url":"https://facebook.com/PythonWithZaid",
+    "tw_url":"https://twitter.com/PythonWithZaid",
+    "gh_url": "https://github.com/PythonWithZaid",
+    "blog_name": "PythonWithZaid",
+    "tag_line": "Write Your Dreams With Codes",
+    "about_content": "how are you i am nobita the admin of this Blog.",
+    "no_of_posts": 2,
+    "admin_image": "admin.svg",
+    
+    "upload_location":"H:\\python projects\\website\\static"
+  }
+}
